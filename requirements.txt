@@ -1,3 +1,4 @@
 scikitlearn
 streamlit
 pickle
+numpy
